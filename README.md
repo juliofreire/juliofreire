@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning about system control, IA and machine learning.
 - 🎓 I'm graduated on Mechanical Engineer and Science and Technology.
 - 🎒 Recently, I've started Computer Engineer and Eletrical and Computer Engineer Master's Degree on UFRN.
-- 💞️ I'm looking to collaborate on any project that can learn any knowledge about programming even although was python but relationate with programming.
+- 💞️ I'm looking to collaborate on any project that can learn MLOPs and enhance my programming skill.
 - 📫 How to reach me send a mesage to my e-mail julio.juliofreire@gmail.com or a private mesage here.
 
 <!---
